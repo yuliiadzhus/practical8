@@ -1,1 +1,3 @@
-print("hello world")
+def divice(a,b):
+    return a / b
+
